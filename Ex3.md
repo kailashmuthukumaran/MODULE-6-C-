@@ -49,7 +49,7 @@ int main()
 
 
 ## Output:
-<img width="1176" height="332" alt="500123265-62316a4a-ad77-4ddc-9796-1ba0aba574d7" src="https://github.com/user-attachments/assets/c9532332-0cb7-4547-bc61-7197523bb101" />
+<img width="1176" height="332" alt="500123265-62316a4a-ad77-4ddc-9796-1ba0aba574d7" src="https://github.com/user-attachments/assets/c9532332-0cb7-4547-bc61-7197523bb101" />.
 
 
 
