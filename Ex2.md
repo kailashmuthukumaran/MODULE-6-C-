@@ -61,7 +61,7 @@ int main()
 
 ## Output:
 
-<img width="606" height="247" alt="519135624-9ae2f6ac-bb9a-4e95-b4a7-caf134d70bc1" src="https://github.com/user-attachments/assets/c7948790-ee56-45b9-abcd-d7fe9333c495" />
+<img width="606" height="247" alt="519135624-9ae2f6ac-bb9a-4e95-b4a7-caf134d70bc1" src="https://github.com/user-attachments/assets/c7948790-ee56-45b9-abcd-d7fe9333c495" /.>
 
 
 ## Result:
